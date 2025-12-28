@@ -1,0 +1,16 @@
+# Python
+*$py.class
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Poetry
+poetry.toml
+
+# Ignore generated battery reports
+battery-report.html
+reports/

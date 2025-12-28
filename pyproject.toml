@@ -1,0 +1,19 @@
+[project]
+name = "chargeinsight"
+version = "0.1.0"
+description = "Desktop app for battery health confidence & monitoring"
+authors = [
+    {name = "Rozhak",email = "65714340+RozhakDev@users.noreply.github.com"}
+]
+license = {text = "MIT"}
+readme = "README.md"
+requires-python = "^3.13"
+dependencies = [
+    "psutil (>=7.2.0,<8.0.0)",
+    "beautifulsoup4 (>=4.14.3,<5.0.0)"
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
