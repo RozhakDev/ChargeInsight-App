@@ -1,0 +1,7 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.SleepyPhone" parent="Base.Theme.SleepyPhone">
+        <!-- All color definitions are inherited from the main themes.xml,
+             ensuring a consistent dark theme experience. -->
+    </style>
+</resources>

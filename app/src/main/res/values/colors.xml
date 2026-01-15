@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Palette Utama (Dark Theme) -->
+    <color name="seed">#82b1ff</color>
+    <color name="primary">#82b1ff</color> <!-- Biru muda yang lembut -->
+    <color name="onPrimary">#002f64</color>
+    <color name="primaryContainer">#00458e</color>
+    <color name="onPrimaryContainer">#d8e2ff</color>
+
+    <color name="secondary">#bdc6dc</color>
+    <color name="onSecondary">#283141</color>
+    <color name="secondaryContainer">#3f4759</color>
+    <color name="onSecondaryContainer">#dae2f9</color>
+
+    <color name="tertiary">#e0bddd</color>
+    <color name="onTertiary">#462643</color>
+    <color name="tertiaryContainer">#5f3c5a</color>
+    <color name="onTertiaryContainer">#fdd9fa</color>
+
+    <color name="background">#1a1c1e</color> <!-- Latar belakang abu-abu gelap, bukan hitam pekat -->
+    <color name="onBackground">#e2e2e6</color>
+
+    <color name="surface">#1a1c1e</color>
+    <color name="onSurface">#e2e2e6</color>
+    <color name="surfaceVariant">#43474e</color> <!-- Warna kartu/permukaan yang sedikit lebih terang -->
+    <color name="onSurfaceVariant">#c3c7cf</color>
+
+    <color name="outline">#8d9199</color>
+
+    <!-- Warna Status -->
+    <color name="success">#8BC34A</color> <!-- Hijau yang lebih kalem -->
+    <color name="onSuccess">#1a360b</color>
+    <color name="successContainer">#2f4d1e</color>
+    <color name="onSuccessContainer">#b8f193</color>
+
+    <color name="error">#F44336</color> <!-- Merah yang lebih kalem -->
+    <color name="onError">#410002</color>
+    <color name="errorContainer">#93000a</color>
+    <color name="onErrorContainer">#ffdad6</color>
+
+    <!-- Warna Tombol Kustom -->
+    <color name="button_start_green">#4CAF50</color>
+    <color name="button_stop_red">#E53935</color>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>

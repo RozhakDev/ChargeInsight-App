@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000000"
+    android:clickable="true"
+    android:focusable="true"
+    android:keepScreenOn="true">
+
+    <Button
+        android:id="@+id/btnEmergencyExit"
+        android:layout_width="200dp"
+        android:layout_height="100dp"
+        android:text="EMERGENCY UNLOCK\n(Klik di sini)"
+        android:textColor="#333333"
+        android:layout_gravity="center"
+        android:background="@android:color/transparent"
+        android:alpha="0.5"/>
+</FrameLayout>
